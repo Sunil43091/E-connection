@@ -1,0 +1,515 @@
+@media (max-width:1600px) {
+    .WhyCOL {
+        padding: 40px;
+        display: none;
+    }
+
+    .WhyChooseConnectionsCOL {
+        padding: 188px 100px 60px 211px;
+
+    }
+
+    .text_content {
+        padding: 79px 94px 11px 52px;
+        background-color: #000;
+        color: #fff;
+        height: 100%;
+        margin-left: 200px;
+        border-radius: 22px 0px 0px 22px;
+    }
+
+}
+
+@media (max-width:1299px) {
+    .WhyChooseConnectionsCOL {
+        padding: 214px 122px 60px 211px;
+    }
+
+}
+
+@media(max-width: 1199px) {
+    .text_content {
+        padding: 72px 60px 72px 74px;
+    }
+
+    .text_musical h3 {
+        font-size: 16px;
+
+    }
+
+    .WhyChooseConnectionsCOL {
+        padding:70px 34px 60px 155px;
+    }
+
+    .footer_section {
+        height: auto;
+
+    }
+
+    .card {
+        width: 100%;
+        height: auto;
+        padding: 50px;
+        border: none;
+    }
+    .WhyChooseConnectionsCOL {
+        padding: 97px 34px 60px 103px;
+    }
+}
+
+@media(min-width: 991px) {
+    .mobile-viwe {
+        display: none;
+    }
+
+    .card-mobile-viwe {
+        display: none;
+    }
+
+}
+
+@media(max-width: 991px) {
+    .text-bannar h1 {
+        font-size: 24px;
+        line-height: 30px;
+        text-align: center;
+    }
+    .connction {
+        height: 100%;
+
+    }
+    hr:not([size]) {
+        width: 100%;
+    }
+ 
+    .WhyChooseConnectionsCOL{
+        display: none;
+    }
+
+    .desktop-top-viwe {
+        display: none;
+    }
+
+    .card_desk-top {
+        display: none;
+    }
+
+    .tesimonial {
+        height: 100%;
+    }
+
+    .card_fourpage .card {
+        width: 100%;
+    }
+
+    .images_col {
+        width: 100%;
+    }
+
+    .banner_text_content h1 {
+        font-size: 30px;
+    }
+
+    .connction {
+        margin: 130px 0px 0px 0px;
+
+    }
+
+    .WhyChooseConnectionsCOL {
+        padding: 97px 34px 60px 103px;
+    }
+
+    .WhyCOL {
+        padding: 40px;
+        display: block;
+    }
+
+    .customer_viwe {
+        padding: 0px
+    }
+
+    img {
+        width: 100%;
+        height: auto;
+    }
+
+    .card_style .card-body h5 {
+        font-size: 14px;
+    }
+
+    .arrowCOl a i {
+        font-size: 15px;
+    }
+
+    button.btn.btn-warning.btnstyCOL {
+        width: 100%;
+    }
+
+    .video_section video {
+        width: 100%;
+        height: auto;
+        margin: 0 auto;
+    }
+
+    .card_section .card_style {
+        padding-top: 0px;
+    }
+
+    .bg-images {
+        padding: 72px 10px 72px 68px;
+    }
+
+    .bntClassTwo a+a {
+        margin-left: 0px;
+    }
+
+    .bannar_text {
+        padding: 40px 0px 0px 20px;
+    }
+
+    .logoCol img {
+        width: 151px;
+    }
+
+    .one img {
+        margin-top: -50px;
+        object-fit: cover;
+        height: auto;
+        margin-bottom: 30px;
+        border-radius: 10px;
+    }
+
+    img.img-three {
+        margin-top: 30px;
+    }
+
+    .bntClassTwo .btnstyetwo {
+        display: block;
+        text-align: center;
+
+    }
+
+    .bntClassTwo .btnstye {
+        display: block;
+        width: 100%;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+
+    h5.card-title {
+        font-size: 14px;
+    }
+
+    .card {
+        padding: 10px;
+
+    }
+
+    .cards_one_section {
+        margin-top: 0px;
+    }
+
+    .text_musical h3 {
+        font-size: 13px;
+    }
+
+    .content_images {
+        padding: 21px 15px 16px 46px;
+    }
+
+    .hrwt {
+        margin: 16px 0px;
+    }
+
+    .chooseformmobile .form-control {
+        width: 100%;
+        height: 50px;
+    }
+
+    .chooseformmobile .form-select {
+        width: 100%;
+        height: 50px;
+    }
+
+    .toogle {
+        top: 110px;
+    }
+
+    .wth100 {
+        width: 100%;
+        text-align: center;
+    }
+
+    .content_images p {
+        line-height: 13px;
+        font-size: 14px;
+
+    }
+
+    .content_images h1 {
+        font-size: 18px;
+        line-height: 12px;
+
+    }
+}
+
+@media(max-width: 767px) {
+    .text_content {
+        padding: 44px 60px 72px 74px;
+        margin-left: 0px;
+    }
+
+    .btn {
+        display: block;
+        width: 100%;
+    }
+
+    .cabinet .form-control {
+        display: block;
+        width: 100%;
+
+    }
+
+    .iconCol {
+        margin-top: 10px;
+        padding: 38px;
+    }
+
+    .mmm li {
+        padding-left: 0px;
+    }
+
+    .loginCOL {
+        position: absolute;
+        top: 88px;
+        right: 40px;
+    }
+
+    .toogle {
+        top: 82px;
+    }
+
+    .bg-images {
+        margin-right: 0px;
+    }
+
+    .siderdiv {
+        padding: 0px 0px 50px 0px;
+    }
+
+    .content_images {
+        padding: 82px 138px 16px 108px;
+    }
+
+}
+
+@media(max-width: 575px) {
+    .text_content {
+        padding: 29px 26px 40px 31px;
+        margin-left: 0px;
+        height: auto;
+    }
+
+    .bg-images {
+        margin-right: 0px;
+    }
+
+    .imgstyle img {
+        width: 100%;
+        display: flex;
+        margin: 0 auto;
+    }
+
+    .color_div_border {
+        padding: 38px 58px 38px 38px;
+    }
+
+    .addClassCol h2 {
+        text-align: center;
+    }
+
+    .banner_text_content h1 {
+        font-size: 26px;
+    }
+
+    .siderdiv .swiper-button-next:after,
+    .swiper-rtl .swiper-button-prev:after {
+        content: 'next';
+        color: #161616;
+        display: none;
+    }
+
+    .siderdiv .swiper-button-prev:after,
+    .swiper-rtl .swiper-button-next:after {
+        content: 'prev';
+        color: #000;
+        display: none;
+    }
+
+    .fileuploade {
+        display: block;
+        text-align: center;
+        width: 100%;
+    }
+
+    .form-horizontal .forgot-pass {
+        width: 100%;
+        text-align: left;
+        margin: 33px auto;
+    }
+
+    .form-horizontal .login {
+        font-size: 12px;
+    }
+
+    .form-horizontal .signup {
+        font-size: 12px;
+
+    }
+
+    .form-horizontal .btn,
+    .form-horizontal .btn:focus {
+        font-size: 12px;
+    }
+
+    .regCol {
+        font-size: 18px;
+    }
+
+    .lg-COL {
+        font-size: 18px;
+    }
+
+    .Booking {
+        padding-top: 30px;
+        width: 100%;
+        text-align: center;
+    }
+
+    .user-photo {
+        width: 50%;
+        margin: 0 auto;
+    }
+
+    .namedCOL {
+        width: 100%;
+        text-align: center;
+    }
+}
+
+@media(max-width:480px) {
+    .content_images {
+        padding: 82px 88px 16px 43px;
+    }
+}
+
+@media(max-width:374px) {
+    .video_section video {
+        width: 320px;
+        height: 200px;
+    }
+
+    .btndelete a {
+        padding: 20px 60px;
+        width: 100%;
+    }
+
+    .SavecolBTN a {
+        padding: 20px 100px;
+        width: 100%;
+    }
+
+    .addClassCol h2 {
+        text-align: center;
+    }
+
+    .bg-images {
+        padding: 30px 10px 0px 11px;
+    }
+
+    .abouts_text {
+        padding: 0px;
+    }
+
+    .bntClassTwo .btnstye {
+        padding: 15px 10px;
+
+    }
+
+    .bntClassTwo .btnstyetwo {
+        padding: 13px 15px;
+
+    }
+
+    .form_section h3 {
+        font-size: 18px;
+
+    }
+
+    .bg-images h3 {
+        font-size: 18px;
+    }
+
+    .loginCOL {
+        position: absolute;
+        top: 84px;
+        right: 10px;
+    }
+
+    .logoCol img {
+        width: 129px;
+    }
+
+    .card {
+        padding: 30px;
+    }
+
+    .imgstyle img {
+        width: 100%;
+        height: auto;
+    }
+
+    .imgstyle img {
+        width: 100%;
+        display: flex;
+        margin: 0 auto;
+    }
+
+    .toogle {
+        top: 80px;
+    }
+
+    .color_div_border {
+        padding: 38px 58px 38px 38px;
+    }
+
+    .banner_text_content h1 {
+        font-size: 18px;
+    }
+
+    .callingCOl li {
+        padding-left: 6px;
+
+    }
+
+    .content_images {
+        padding: 56px 30px 16px 36px;
+    }
+
+    .banner_text_content p {
+        font-size: 16px;
+        margin-top: 16px;
+    }
+
+    .blogs-title {
+        font-size: 15px;
+        text-transform: capitalize;
+    }
+
+    .siderdiv h1 {
+        font-size: 18px;
+        margin-bottom: 18px;
+    }
+
+
+}
